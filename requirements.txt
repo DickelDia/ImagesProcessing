@@ -1,0 +1,6 @@
+firebase_admin==6.1.0
+flask>=2.1.1
+opencv_python==4.7.0.68
+scikit_learn==1.2.1
+numpy==1.24.2
+matplotlib==3.6.3
