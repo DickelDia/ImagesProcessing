@@ -1,2 +1,0 @@
-firebase_admin==6.1.0
-flask>=2.1.1
